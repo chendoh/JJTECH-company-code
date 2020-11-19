@@ -4,7 +4,7 @@
     "Version": "2012-10-17",
     "Statement": [
         {
-            "Sid": "DenyAllOutsideUnitedstates",
+            "Sid": "DenyAllOutsideUnitedstatesAmerica",
             "Effect": "Deny",
             "NotAction": [
                 "a4b:*",
